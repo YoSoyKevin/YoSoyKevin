@@ -3,11 +3,29 @@
   <img src="https://raw.githubusercontent.com/kevinshimizu/kevinshimizu/main/assets/github-banner.png" alt="Kevin Shimizu - Automation & AI Engineer" width="100%"/>
 </p>-->
 
-<h1 align="center">👋 Hola, soy Kevin Shimizu Villagaray</h1>
-<p align="center">
-  🧠 Automation & AI Engineer · 🐍 Python Developer · 🤖 RPA Specialist<br>
-  📍 Ica, Perú · 📫 <a href="mailto:kevinshimizu1@gmail.com">kevinshimizu1@gmail.com</a> · 🔗 <a href="https://linkedin.com/in/kevin-shimizu-dev">LinkedIn</a>
+<h1 align="center" style="font-weight: 900; letter-spacing: 2px; color: #4F46E5; margin-bottom: 0;">
+  👋 Hola, soy Kevin Shimizu Villagaray
+</h1>
+
+<p align="center" style="font-size: 1.2rem; color: #1F2937; font-weight: 600; margin-top: 0.2em; margin-bottom: 0.4em; letter-spacing: 1px;">
+  🧠 Automation & AI Engineer &nbsp;&nbsp;<span style="color: #6366F1;">·</span>&nbsp;&nbsp; 🐍 Python Developer &nbsp;&nbsp;<span style="color: #6366F1;">·</span>&nbsp;&nbsp; 🤖 RPA Specialist
 </p>
+
+<p align="center" style="font-size: 1rem; color: #4B5563;">
+  📍 Ica, Perú &nbsp;&nbsp;<span style="color: #9CA3AF;">|</span>&nbsp;&nbsp; 
+  📫 <a href="mailto:kevinshimizu1@gmail.com" style="color:#4F46E5; text-decoration:none; font-weight: 600;">kevinshimizu1@gmail.com</a> &nbsp;&nbsp;<span style="color: #9CA3AF;">|</span>&nbsp;&nbsp; 
+  🔗 <a href="https://linkedin.com/in/kevin-shimizu-dev" style="color:#4F46E5; text-decoration:none; font-weight: 600;" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+</p>
+
+<style>
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.6; }
+}
+h1 {
+  animation: pulse 3s ease-in-out infinite;
+}
+</style>
 
 ---
 
@@ -69,24 +87,23 @@ Soy un desarrollador autodidacta con enfoque en automatización, IA y back-end. 
 
 ### 🔭 En qué estoy trabajando ahora
 
-- 🤖 Agentes IA para RRHH con flujos en n8n  
-- 📄 Automatización de documentos con LLMs + Google Docs API  
-- 🧠 Scrapers + LLMs para lectura inteligente de código en repos grandes  
-- 🔁 Automatización de revisión de PRs con IA
+- 🤖 Diseños modulares de agentes LangChain con múltiples tools (code, search, API)
+- 🧬 Uso de LangSmith para evaluar prompts y rutas de ejecución en agentes
+- ⚙️ Integración con MongoDB y Redis para contextos persistentes y cache
+- 🔗 Cadena de agentes colaborativos: uno resume, otro analiza, otro decide
+- 🔄 Reentrenamiento de agentes vía feedback recogido desde LangFuse
 
 ---
 
 ### ⚡ Mentalidad Dev
 
-> "Si algo se repite 3 veces, se automatiza. Si no se puede, se documenta. Y si nadie lo usa… se borra."
-
----
-
-### 📈 Stats de GitHub
+<p align="center">
+  <img src="https://img.shields.io/badge/Mentalidad-Automate_or_Die-red?style=for-the-badge"/>
+</p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kevinshimizu&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinshimizu&layout=compact&theme=tokyonight"/>
+  <em>“Una vez es suficiente. Dos veces, lo pienso. Tres, lo automatizo.”</em><br>
+  <strong>– Porque el tiempo es para crear, no para repetir.</strong>
 </p>
 
 ---
@@ -96,4 +113,5 @@ Soy un desarrollador autodidacta con enfoque en automatización, IA y back-end. 
 <p align="center">
   <a href="mailto:kevinshimizu1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/kevin-shimizu-dev"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://discord.com/users/kevinshimizu1"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
