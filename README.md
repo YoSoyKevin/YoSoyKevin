@@ -3,29 +3,18 @@
   <img src="https://raw.githubusercontent.com/kevinshimizu/kevinshimizu/main/assets/github-banner.png" alt="Kevin Shimizu - Automation & AI Engineer" width="100%"/>
 </p>-->
 
-<h1 align="center" style="font-weight: 900; letter-spacing: 2px; color: #4F46E5; margin-bottom: 0;">
-  👋 Hola, soy Kevin Shimizu Villagaray
-</h1>
+<h1 align="center">👋 Hola, soy Kevin Shimizu Villagaray</h1>
 
-<p align="center" style="font-size: 1.2rem; color: #1F2937; font-weight: 600; margin-top: 0.2em; margin-bottom: 0.4em; letter-spacing: 1px;">
-  🧠 Automation & AI Engineer &nbsp;&nbsp;<span style="color: #6366F1;">·</span>&nbsp;&nbsp; 🐍 Python Developer &nbsp;&nbsp;<span style="color: #6366F1;">·</span>&nbsp;&nbsp; 🤖 RPA Specialist
+<p align="center">
+  🧠 Automation & AI Engineer &nbsp;&nbsp;·&nbsp;&nbsp; 🐍 Python Developer &nbsp;&nbsp;·&nbsp;&nbsp; 🤖 RPA Specialist
 </p>
 
-<p align="center" style="font-size: 1rem; color: #4B5563;">
-  📍 Ica, Perú &nbsp;&nbsp;<span style="color: #9CA3AF;">|</span>&nbsp;&nbsp; 
-  📫 <a href="mailto:kevinshimizu1@gmail.com" style="color:#4F46E5; text-decoration:none; font-weight: 600;">kevinshimizu1@gmail.com</a> &nbsp;&nbsp;<span style="color: #9CA3AF;">|</span>&nbsp;&nbsp; 
-  🔗 <a href="https://linkedin.com/in/kevin-shimizu-dev" style="color:#4F46E5; text-decoration:none; font-weight: 600;" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+<p align="center">
+  📍 Ica, Perú &nbsp;&nbsp;|&nbsp;&nbsp;  
+  📫 <a href="mailto:kevinshimizu1@gmail.com">kevinshimizu1@gmail.com</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+  🔗 <a href="https://linkedin.com/in/kevin-shimizu-dev" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 </p>
 
-<style>
-@keyframes pulse {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.6; }
-}
-h1 {
-  animation: pulse 3s ease-in-out infinite;
-}
-</style>
 
 ---
 
